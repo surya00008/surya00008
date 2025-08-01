@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi, I'm Surya Singu
 
-<!--
-**surya00008/surya00008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Blockchain Developer and Cybersecurity Analyst dedicated to upskilling in blockchain and DApps. I aim to contribute to secure, scalable digital ecosystems with innovative decentralized solutions. Skilled in smart contract development, network security, AI applications in cybersecurity, and performance optimization for cutting-edge technology projects.
 
-Here are some ideas to get you started:
+About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Current Focus**: Upskilling in blockchain and DApps to contribute to secure, scalable digital ecosystems.
+* **Expertise:** Smart contract development, network security, AI applications in cybersecurity, and performance optimization for cutting-edge technology projects.
+* **Contact:**
+    * Email: [Your Email Address]
+    * LinkedIn: [Your LinkedIn Profile URL]
+    * GitHub: [Your GitHub Profile URL]
+    * X (Twitter): [Your X (Twitter) Profile URL]
