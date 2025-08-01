@@ -12,4 +12,4 @@ About Me
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://https://x.com/surya_singu)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suryasingu008@gmail.com)
 
-![BUILDING BLOCKS](block.gif)
+![BUILDING BLOCKS](images/block.gif)
