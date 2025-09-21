@@ -1,5 +1,3 @@
-![Banner](https://raw.githubusercontent.com/surya00008/surya00008/main/banner%20final.png)
-
 # Hi, I'm Surya!  
 [**Blockchain Dev**](https://github.com/surya00008) | [**Cybersecurity Professional**](https://linkedin.com/in/contactsuryasingu) | [**YouTuber**](https://youtube.com/@surya_codeyt)
 
