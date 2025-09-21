@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Surya!  
+[**Blockchain Dev**](https://github.com/surya00008) | [**Cybersecurity Professional**](https://linkedin.com/in/contactsuryasingu) | [**YouTuber**](https://youtube.com/@surya_codeyt)
 
-<!--
-**surya00008/surya00008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍💻 Cyber Security Projects:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Network-Anomalies-Detection**  
+  🔗 [Detecting Anomalies in Network](https://github.com/surya00008/Network-Anomalies-Detection.git)
+- **Hashed Password Cracker**  
+  🔗 [Password Cracker](https://github.com/surya00008/HashedPasswordCracker.git)
+
+---
+
+## 🤳 Connect with me:
+
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@surya_codeyt)
+[![X](https://img.shields.io/badge/Twitter-%23000000.svg?logo=X&logoColor=white)](https://x.com/surya_singu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/contactsuryasingu)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/surya_code/)
