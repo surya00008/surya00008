@@ -5,22 +5,22 @@
 ██╔════╝██║   ██║██╔══██╗╚██╗ ██╔╝██╔══██╗
 ███████╗██║   ██║██████╔╝ ╚████╔╝ ███████║
 ╚════██║██║   ██║██╔══██╗  ╚██╔╝  ██╔══██║
-███████║╚██████╔╝██║  ██║   ██║   ██║  ██║
-╚══════╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝
+███████║╚██████╔╝██║  ██║   ██║   ██║  ╚═╝
+╚══════╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝     
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Smart+Contract+Engineer;EVM+%7C+Ethereum+%7C+Blockchain+Dev;DevRel+%7C+Web3+Educator;25K%2B+Dev+Community+on+Instagram" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00d4ff&center=true&vCenter=true&width=600&lines=Smart+Contract+Engineer;EVM+%7C+DeFi+%7C+Web3+Integrator;Chainlink+CCIP+%7C+Foundry+Audits;36K%2B+Dev+Community+on+Instagram" alt="Typing SVG" />
 
 <br/>
 
-> 🚀 **Open to work** — Actively looking for **Smart Contract Engineering** and **DevRel** roles in Web3.
-> If you're building something interesting on EVM — [let's talk.](mailto:suryasingu008@gmail.com)
+> 🚀 **Open to Collaboration & Roles** — Actively looking for high-impact **Smart Contract Engineering**, **Web3 Integration**, and **DevRel** opportunities.
+> If you are building robust EVM platforms or cross-chain protocols — [let's connect.](mailto:suryasingu008@gmail.com)
 
 <br/>
 
-[![Instagram](https://img.shields.io/badge/Instagram-25K%2B_Followers-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/surya_code)
+[![Instagram](https://img.shields.io/badge/Instagram-36.4K%2B-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/surya_code)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/contactsuryasingu)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-00D4FF?style=for-the-badge&logo=vercel&logoColor=white)](https://surya-code.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Aesthetics-00D4FF?style=for-the-badge&logo=vercel&logoColor=white)](https://surya-code.vercel.app)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@surya_codeyt)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/surya_singu)
 [![Email](https://img.shields.io/badge/Email-suryasingu008%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suryasingu008@gmail.com)
@@ -29,141 +29,133 @@
 
 ---
 
-## ⚡ Who Am I
+## ⚡ Core Profile
 
 ```solidity
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.24;
+pragma solidity ^0.8.26;
+
+import {IChainlinkCCIP} from "@chainlink/ccip/IChainlinkCCIP.sol";
+import {IGeminiAI} from "@google/gemini/IGeminiAI.sol";
 
 contract SuryaSingu {
-    string public name     = "Surya Singu";
-    string public role     = "Smart Contract Engineer & DevRel";
-    string public location = "Bengaluru, India";
-    string public focus    = "EVM | Ethereum | DeFi | ZKP | Chainlink";
+    string public constant name = "Surya Singu";
+    string public constant role = "Web3 & AI Integrator | Smart Contract Auditor";
+    string public constant location = "Bengaluru, India";
+    string public constant mission = "Developing highly performant, parallelized, and secure EVM applications.";
 
-    string[] public stack  = [
-        "Solidity", "Foundry", "Chainlink VRF", "Chainlink Automation",
-        "Ethers.js", "Web3.js", "Python", "TypeScript", "Node.js"
+    string[] public blockchainTech = [
+        "Solidity", "Foundry Invariant Testing", "Ethereum/EVM", "Chainlink CCIP", 
+        "DeFi Primitives", "Gas Optimizations", "Merkle Tree Whitelists"
     ];
 
-    function mission() external pure returns (string memory) {
-        return "Build trustless systems. Educate the next wave of Web3 devs.";
+    string[] public webFrontendStack = [
+        "React/Next.js 16", "TypeScript", "Tailwind CSS", "Ethers.js", "Web3.js", "Node.js"
+    ];
+
+    function getOperationalStatus() external pure returns (string memory) {
+        return "ONLINE | Active Invariant Runs Running Safely";
     }
 }
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Arsenal
 
 <div align="center">
 
-**Blockchain & Web3**
-
+### Blockchain & Smart Contracts
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white)
-![Foundry](https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=ethereum&logoColor=white)
+![Foundry](https://img.shields.io/badge/Foundry_Testing-000000?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/Hardhat-FFF04D?style=for-the-badge&logo=hardhat&logoColor=black)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
 ![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white)
 
-**Languages & Tools**
-
+### Languages, Frameworks & Integrations
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Cryptography**
-
-![ZKP](https://img.shields.io/badge/Zero_Knowledge_Proofs-6C3483?style=for-the-badge&logoColor=white)
-![SHA256](https://img.shields.io/badge/SHA--256-2C3E50?style=for-the-badge)
+### Cryptographic Security & APIs
+![ZKP](https://img.shields.io/badge/ZK_Proofs-6C3483?style=for-the-badge)
 ![secp256k1](https://img.shields.io/badge/secp256k1-1ABC9C?style=for-the-badge)
-![Keccak256](https://img.shields.io/badge/Keccak256-E74C3C?style=for-the-badge)
+![DefiLlama](https://img.shields.io/badge/DefiLlama_API-4C51BF?style=for-the-badge)
+![Gemini AI](https://img.shields.io/badge/Gemini_AI_API-8E2DE2?style=for-the-badge)
 
 </div>
 
 ---
 
-## 🏗️ Featured Projects
+## 🏗️ Featured Production Showcases
 
-### 💰 Foundry DeFi Stablecoin
-> Over-collateralized, USD-pegged stablecoin — **MakerDAO-inspired DSC protocol**
-
-- Accepts only exogenous collateral (WETH + WBTC) with health-factor based borrowing limits
-- Algorithmic mint/burn logic via `DSCEngine.sol` with on-chain liquidation incentives
-- `OracleLib.sol` halts the system if Chainlink price feeds go stale — safety first
-- Full test coverage: deterministic unit tests + **stateful fuzz + invariant suites** with a custom handler
-- CI/CD pipeline via GitHub Actions
-
-`Solidity` `Foundry` `Chainlink Price Feeds` `DeFi` `ERC20` `Fuzz Testing` `Invariant Testing`
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/surya00008/foundry-defi-stablecoin)
+### 💼 DealFlow Intelligence DApp
+> **AI-Powered Venture Capital Dealflow Dashboard** — Web3 investment pipelines synced with cognitive models.
+*   Built real-time data ingestion models scraping on-chain funding metrics using **Next.js 16**, **TypeScript**, and **DefiLlama/CoinGecko APIs**.
+*   Fused **Google Gemini AI model processing** to automate due diligence reports and score incoming protocol metrics.
+*   *Stack:* `Next.js` `React` `Gemini AI API` `Tailwind CSS` `DeFi Analytics`
 
 ---
 
-### 🎰 Foundry Smart Contract Lottery
-> Provably fair on-chain raffle — **zero trusted intermediaries**
-
-- Users enter by paying an entrance fee; winner gets the full prize pool
-- Randomness powered by **Chainlink VRF v2.5** — cryptographically verifiable
-- Fully automated draws via **Chainlink Automation** (`checkUpkeep` / `performUpkeep`)
-- CEI pattern enforced throughout for reentrancy safety
-- Deployed & verified on Sepolia testnet
-
-`Solidity` `Foundry` `Chainlink VRF v2.5` `Chainlink Automation` `Ethereum` `Solmate`
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/surya00008/foundry-smart-contract-lottery)
+### 🛡️ Algorithmic DeFi Stablecoin
+> **Over-Collateralized, Exogenous-Backed Stablecoin System** — Inspired by MakerDAO architecture.
+*   Secured borrow limits based on on-chain health factor computations using **Solidity** and **Foundry**.
+*   Engineered `OracleLib.sol` with automated safe-halting configurations if Chainlink price feeds become stale.
+*   Executed **1.2M+ Invariant and Stateful Fuzz Testing runs** using custom Foundry handler scripts to prove complete economic solvency.
+*   *Stack:* `Solidity` `Foundry` `Chainlink Oracles` `Fuzz/Invariant Testing`
 
 ---
 
-### 🔐 Zero Knowledge Proof Cryptographic System
-> Python ZKP authentication — **prove a secret without revealing it**
-
-- Schnorr-like protocol using the discrete logarithm problem on a 256-bit prime (secp256k1)
-- Two real-world use cases: **password authentication** + **digital forensics / file integrity**
-- Sub-1ms proof generation and verification times; 100% authentication accuracy
-- Interactive Streamlit UI + CLI demo + attack simulation module
-- University capstone project @ GITAM
-
-`Python` `Schnorr Protocol` `ZKP` `secp256k1` `SHA-256` `Streamlit` `Cryptography`
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/surya00008/zero-knowledge-proof-system)
+### 🔀 Chainlink CCIP Cross-Chain Token
+> **Cross-Chain Rebase Token Infrastructure** — Yield-accruing token state sync across multi-EVM networks.
+*   Leveraged **Chainlink CCIP (Cross-Chain Interoperability Protocol)** to safely route token lock/release and burn/mint actions.
+*   Implemented interest-bearing state calculations preserving rebase percentages across destination chains.
+*   *Stack:* `Solidity` `Chainlink CCIP` `EVM State Sync` `Foundry`
 
 ---
 
-## 🌍 Community & Content
+## ✍️ Publications & Deep Research
+
+I regularly author deep-dives dissecting economic flywheels, systemic risks, and cutting-edge L1 infrastructures:
+
+*   📖 **[The Yield Illusion: Unpacking Ethena’s USDe & Delta-Neutral Stablecoins](https://paragraph.com/@0x79b857de5401c0d79219e73911b7e2428572d45c/the-yield-illusion-unpacking-ethenas-usde-and-the-tail-risk-of-delta-neutral-stablecoins)**
+    *   *Focus:* Delta-neutral basis trading architectures, systemic funding rate tails, and collateral vulnerability stress tests under structural bear shifts.
+*   📖 **[The Cult of Liquidity: Deconstructing Berachain’s Economy and PoL](https://paragraph.com/@0x79b857de5401c0d79219e73911b7e2428572d45c/the-cult-of-liquidity-deconstructing-berachains-tri-token-economy-and-pol)**
+    *   *Focus:* Proof of Liquidity consensus systems, BERA/BGT governance flywheels, and liquidity retention mechanics.
+*   📖 **[Breaking the EVM Bottleneck: Monad’s Parallel Execution Engine](https://paragraph.com/@0x79b857de5401c0d79219e73911b7e2428572d45c/breaking-the-evm-bottleneck-monads-parallel-execution-engine)**
+    *   *Focus:* Monad's optimistic parallel execution layers, custom MonadDb inputs, and hardware centralization boundaries.
+
+---
+
+## 🌍 Developer Community Scale
+
+I run one of the fastest-growing Web3 developer educational resources on Instagram, building developer trust at scale:
+
+```
+┌──────────────────────────────────────────────────────────────┐
+│                  @surya_code  ·  Instagram                   │
+│                                                              │
+│  👥  36.4K+ Technical Followers                             │
+│  📊  5,000,000+ Organic Impressions Reached                  │
+│  🔥  Viral Reels scaling to 1.2M+, 420K, and 340K views       │
+│  💡  AI Tools & Dev Tricks Daily for 10x Productivity        │
+└──────────────────────────────────────────────────────────────┘
+```
+
+[![Instagram Community](https://img.shields.io/badge/@surya__code-36.4K%2B_Engineers-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/surya_code)
+
+---
+
+## 📊 Developer Engagement Stats
 
 <div align="center">
 
-```
-┌──────────────────────────────────────────────────┐
-│            @surya_code  ·  Instagram             │
-│                                                  │
-│   👥  25,000+ Followers                          │
-│   📈  Grown organically in under 6 months        │
-│   🔥  Posts hitting 1M+, 420K, 343K views        │
-│                                                  │
-│   Dev tips · Smart contracts · AI/Tech news      │
-│   Web3 careers · Student advice                  │
-└──────────────────────────────────────────────────┘
-```
-
-[![Instagram Community](https://img.shields.io/badge/@surya__code-25K%2B_Devs-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/surya_code)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=surya00008&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surya00008&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=surya00008&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surya00008&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
 
@@ -175,6 +167,6 @@ contract SuryaSingu {
 
 <div align="center">
 
-*"Blockchain is my arena, where code and consensus clash to create unstoppable systems."*
+*"EVM is my canvas, where cryptographic security and gas-efficiency collide to architect immutable products."*
 
 </div>
