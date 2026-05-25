@@ -5,8 +5,8 @@
 ██╔════╝██║   ██║██╔══██╗╚██╗ ██╔╝██╔══██╗
 ███████╗██║   ██║██████╔╝ ╚████╔╝ ███████║
 ╚════██║██║   ██║██╔══██╗  ╚██╔╝  ██╔══██║
-███████║╚██████╔╝██║  ██║   ██║   ██║  ╚═╝
-╚══════╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝     
+███████║╚██████╔╝██║  ██║   ██║   ██║  ██║
+╚══════╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝
 ```
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00d4ff&center=true&vCenter=true&width=600&lines=Smart+Contract+Engineer;EVM+%7C+DeFi+%7C+Web3+Integrator;Chainlink+CCIP+%7C+Foundry+Audits;36K%2B+Dev+Community+on+Instagram" alt="Typing SVG" />
